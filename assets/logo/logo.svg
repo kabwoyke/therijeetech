@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64">
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="#EAF6FC"/>
+  <rect x="1" y="1" width="62" height="62" rx="17" stroke="#93D4EF" stroke-width="2"/>
+  <path d="M22 22 14 32l8 10" stroke="#1D6C8C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M42 22 50 32l-8 10" stroke="#1D6C8C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="32" cy="32" r="3.6" fill="#33A4D1"/>
+  <text x="82" y="30" font-family="Space Grotesk, sans-serif" font-size="22" font-weight="700" fill="#081620">THE RIJEE</text>
+  <text x="82" y="52" font-family="Space Grotesk, sans-serif" font-size="22" font-weight="700" fill="#33A4D1">TECH</text>
+</svg>

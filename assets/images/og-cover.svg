@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect width="1200" height="630" fill="#EAF6FC" opacity="0.6"/>
+  <circle cx="1030" cy="120" r="10" fill="#33A4D1"/>
+  <circle cx="1090" cy="500" r="14" fill="#1FA590"/>
+  <path d="M120 470 L120 380 L200 380" stroke="#93D4EF" stroke-width="4" fill="none"/>
+  <path d="M1000 160 L1000 250 L920 250" stroke="#93D4EF" stroke-width="4" fill="none"/>
+  <text x="120" y="300" font-family="Space Grotesk, sans-serif" font-size="72" font-weight="700" fill="#081620">THE RIJEE TECH</text>
+  <text x="120" y="360" font-family="Inter, sans-serif" font-size="30" fill="#1D6C8C">Coding &amp; Robotics for Kids in Kenya</text>
+</svg>
